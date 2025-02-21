@@ -1,1 +1,2 @@
 Learn2 Grav Theme
+# clarify the control flow
