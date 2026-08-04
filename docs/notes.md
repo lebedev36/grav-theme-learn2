@@ -54,3 +54,4 @@ Notes and usage details for grav-theme-learn2.
 - link the usage section
 - add a note about the defaults
 - clarify the setup steps
+- fix a small wording issue
